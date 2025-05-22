@@ -33,7 +33,7 @@ Available for internships starting as early as Summer 2025, with flexibility thr
 ## 🔗 Connect With Me:
 
 - LinkedIn: [https://www.linkedin.com/in/alessandro-adandedjan/]
-
+- Gitlab: https://gitlab.com/hemrys
 ---
 
 🤝 Let's collaborate! If you're interested in working together or have internship opportunities, feel free to reach out! 🚀
