@@ -2,6 +2,13 @@
 
 Developer passionate about crafting intuitive web and mobile experiences. Currently studying web and mobile development at Chas Academy.
 
+💖 Project Links
+
+- 🏋️ RepJournal: [https://repjournalreact.vercel.app/]
+- 🛋️ Furniture Site: [https://furniture-hemrys.netlify.app/]
+- ✅ Modern to do list: [https://todolisthemrys.netlify.app/]
+- Vanilla js projects on gitlab: [ https://gitlab.com/hemrys]
+
 ## 🔭 Current Projects
 
 - 🌊 **Floodcast:** Contributing to the frontend of a flood risk application in collaboration with backend and system developer students at Chas Academy.
