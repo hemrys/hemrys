@@ -3,9 +3,10 @@
 Developer passionate about crafting intuitive web and mobile experiences. Currently studying web and mobile development at Chas Academy.
 
 💖 Project Links
-
+- 📖 Portfolio Site: [https://portfolio-hemrys.vercel.app/]
 - 🏋️ RepJournal: [https://repjournalreact.vercel.app/]
 - 🛋️ Furniture Site: [https://furniture-hemrys.netlify.app/]
+- 🌧️ Floodcast [https://tinyurl.com/floodcastApp] make sure to install Expo go on your mobile first to view the app, web version not available
 - ✅ Modern to do list: [https://todolisthemrys.netlify.app/]
 - Vanilla js projects on gitlab: [ https://gitlab.com/hemrys]
 
