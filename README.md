@@ -4,21 +4,20 @@ Developer passionate about crafting intuitive web and mobile experiences. Curren
 
 💖 Project Links
 - 📖 Portfolio Site: [https://portfolio-hemrys.vercel.app/]
-- 🏋️ RepJournal: [https://repjournalreact.vercel.app/]
+
+
+
+Other minor projects
 - 🛋️ Furniture Site: [https://furniture-hemrys.netlify.app/]
 - 🌧️ Floodcast [https://tinyurl.com/floodcastApp] make sure to install Expo go on your mobile first to view the app, web version not available
 - ✅ Modern to do list: [https://todolisthemrys.netlify.app/]
 - Vanilla js projects on gitlab: [ https://gitlab.com/hemrys]
 
-## 🔭 Current Projects
 
-- 🌊 **Floodcast:** Contributing to the frontend of a flood risk application in collaboration with backend and system developer students at Chas Academy.
-- 🎧 **Music App (TBD):** Developing a React Native audio player tailored for the needs of gym enthusiasts.
 
 ## 🌱 Currently Learning
 
-- Diving deeper into React Native for robust mobile development.
-- Strengthening my understanding of advanced TypeScript features.
+- Diving deeper into Kotlin for robust mobile development.
 
 ## 🛠️ Development Skills (Graduating June 2026)
 
@@ -27,16 +26,20 @@ Developer passionate about crafting intuitive web and mobile experiences. Curren
 - TypeScript
 - Tailwind CSS
 - API Integration
+- Kotlin
+- Next.js
 
 **Mobile Development:**
 - React Native
+- Kotlin
 
 **Backend & Tools:**
-- Supabase (Backend-as-a-Service)
+- Django
+- Server components and server functions in next
+- Supabase
+- Firebase
 
-## 💼 Internship Availability
 
-Available for internships starting as early as Summer 2025, with flexibility through November 2025 until Spring 2026.
 
 ## 🔗 Connect With Me:
 
