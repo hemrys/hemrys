@@ -3,15 +3,10 @@
 Developer passionate about crafting intuitive web and mobile experiences. Currently studying web and mobile development at Chas Academy.
 
 💖 Project Links
-- 📖 Portfolio Site: [https://portfolio-hemrys.vercel.app/]
+- 📖 Portfolio Site: hemrys.dev
 
 
 
-Other minor projects
-- 🛋️ Furniture Site: [https://furniture-hemrys.netlify.app/]
-- 🌧️ Floodcast [https://tinyurl.com/floodcastApp] make sure to install Expo go on your mobile first to view the app, web version not available
-- ✅ Modern to do list: [https://todolisthemrys.netlify.app/]
-- Vanilla js projects on gitlab: [ https://gitlab.com/hemrys]
 
 
 
@@ -27,6 +22,7 @@ Other minor projects
 - Tailwind CSS
 - API Integration
 - Kotlin
+- Jetpack compose
 - Next.js
 
 **Mobile Development:**
@@ -35,7 +31,7 @@ Other minor projects
 
 **Backend & Tools:**
 - Django
-- Server components and server functions in next
+- Server components and server functions in Next.ja
 - Supabase
 - Firebase
 
@@ -47,4 +43,4 @@ Other minor projects
 - Gitlab: https://gitlab.com/hemrys
 ---
 
-🤝 Let's collaborate! If you're interested in working together or have internship opportunities, feel free to reach out! 🚀
+🤝 Let's collaborate! If you're interested in working together feel free to reach out! 🚀
