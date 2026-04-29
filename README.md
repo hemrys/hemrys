@@ -40,7 +40,6 @@ Developer passionate about crafting intuitive web and mobile experiences. Curren
 ## 🔗 Connect With Me:
 
 - LinkedIn: [https://www.linkedin.com/in/alessandro-adandedjan/]
-- Gitlab: https://gitlab.com/hemrys
 ---
 
 🤝 Let's collaborate! If you're interested in working together feel free to reach out! 🚀
