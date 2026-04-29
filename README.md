@@ -3,7 +3,7 @@
 Developer passionate about crafting intuitive web and mobile experiences. Currently studying web and mobile development at Chas Academy.
 
 💖 Project Links
-- 📖 Portfolio Site: hemrys.dev
+- 📖 Portfolio Site: https://www.hemrys.dev/
 
 
 
