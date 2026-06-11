@@ -31,7 +31,9 @@ Developer passionate about crafting intuitive web and mobile experiences. Curren
 
 **Backend & Tools:**
 - Django
-- Server components and server functions in Next.ja
+- Docker
+- Room
+- Server components and server functions in Next.js
 - Supabase
 - Firebase
 
