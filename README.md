@@ -14,7 +14,7 @@ Developer passionate about crafting intuitive web and mobile experiences. Curren
 
 - Diving deeper into Kotlin for robust mobile development.
 
-## 🛠️ Development Skills (Graduating June 2026)
+## 🛠️ Development Skills 
 
 **Frontend:**
 - React
